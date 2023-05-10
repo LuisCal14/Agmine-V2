@@ -1,0 +1,35 @@
+.home-main {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.planet-div{
+    height: 90%;
+}
+
+.planet-img{
+    height: 90%;
+    transition: all 0.2s ease;
+}
+
+.upper-text {
+    font-size: 96px;
+    transition: all 0.2s ease;
+    text-shadow: 0px 0px 39px #76CCC4;
+}
+
+
+
+.bottom-text {
+    font-size: 96px;
+    margin-top: -18%;
+    text-align: right;
+    -webkit-text-stroke: 1.5px #9BF2EA;;
+    color: transparent;
+}
+
+.planet-img:hover {
+    transform: scale(1.05);
+}

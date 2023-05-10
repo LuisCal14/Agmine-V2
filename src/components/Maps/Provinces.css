@@ -1,0 +1,14 @@
+
+.provinces {
+    height: 75vh;
+}
+
+
+.provinces g path {
+    fill: var(--color-green);
+    stroke: black;
+}
+
+.provinces g path:hover {
+    fill: var(--color-greener);
+}

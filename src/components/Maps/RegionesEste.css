@@ -1,0 +1,8 @@
+.regiones-este {
+    height: 70vh;
+}
+
+.regiones-este g:hover {
+    fill: var(--color-greener);
+
+}

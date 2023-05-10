@@ -1,0 +1,7 @@
+.regiones-norte {
+    height: 70vh;
+}
+
+.regiones-norte g:hover {
+    fill: var(--color-greener);
+}
